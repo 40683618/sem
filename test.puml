@@ -1,0 +1,9 @@
+@startulm
+actor "test actor" as A1
+
+rectangle "Reporting System" {
+  usecase "report" as UC1
+}
+
+
+@enduml
